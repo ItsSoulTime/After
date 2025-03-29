@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.207.40.132
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743290631121
+  login: 1743290662463
+money: '0'
+last-account-name: ItsSoulTime
+logoutlocation:
+  world: d606ace1-88ad-4eb6-97ae-e91152b994c9
+  world-name: world
+  x: 332.6475165304881
+  y: 70.0
+  z: -122.54747960410909
+  yaw: 101.30278778076172
+  pitch: 18.626802444458008

@@ -1,0 +1,409 @@
+[23:14:28] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[23:14:28] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[23:14:28] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:14:28] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/CombatWeaponryPlus-BETA 1.0.8.jar'...
+[23:14:28] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/sleep-most-5.5.3.jar'...
+[23:14:28] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/AntiPopup-10.1.jar'...
+[23:14:28] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[23:14:29] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/CombatWeaponryPlus-BETA 1.0.8.jar' in 1341ms.
+[23:14:29] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/Vault.jar'...
+[23:14:30] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Vault.jar' in 371ms.
+[23:14:30] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/tpa-20250220c.jar'...
+[23:14:30] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/sleep-most-5.5.3.jar' in 1754ms.
+[23:14:30] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/tpa-20250220c.jar' in 122ms.
+[23:14:31] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/AntiPopup-10.1.jar' in 2307ms.
+[23:14:31] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2683ms.
+[23:14:31] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[23:14:31] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
+ - AntiPopup (10.1), CombatWeaponryPlus (BETA 1.0.8), Essentials (2.21.0), EssentialsChat (2.21.0), EssentialsSpawn (2.21.0), JustTPA (20250220c), LuckPerms (5.4.158), SkinsRestorer (15.6.1), Vault (1.7.3-b131), sleep-most (5.5.3)
+[23:14:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:14:38] [ServerMain/INFO]: Loaded 1337 recipes
+[23:14:38] [ServerMain/INFO]: Loaded 1448 advancements
+[23:14:38] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[23:14:38] [Server thread/INFO]: Loading properties
+[23:14:38] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[23:14:39] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:14:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:14:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:14:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[23:14:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[23:14:40] [Server thread/INFO]: Default game type: SURVIVAL
+[23:14:40] [Server thread/INFO]: Generating keypair
+[23:14:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:14:40] [Server thread/INFO]: Using epoll channel type
+[23:14:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:14:40] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:14:40] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.158
+[23:14:42] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[23:14:42] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0
+[23:14:42] [Server thread/INFO]: [JustTPA] Loading server plugin JustTPA v20250220c
+[23:14:42] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0
+[23:14:42] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.1
+[23:14:42] [Server thread/INFO]: [AntiPopup] Loading server plugin AntiPopup v10.1
+[23:14:45] [Server thread/INFO]: [AntiPopup] Loaded PacketEvents.
+[23:14:45] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.3
+[23:14:45] [Server thread/INFO]: [CombatWeaponryPlus] Loading server plugin CombatWeaponryPlus vBETA 1.0.8
+[23:14:45] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0
+[23:14:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:14:45] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.158
+[23:14:45] [Server thread/INFO]:         __    
+[23:14:45] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.158
+[23:14:45] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[23:14:45] [Server thread/INFO]: 
+[23:14:45] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[23:14:45] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[23:14:46] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[23:14:46] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[23:14:46] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1097ms)
+[23:14:46] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[23:14:46] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[23:14:46] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[23:14:46] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[23:14:46] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[23:14:46] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[23:14:47] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[23:14:47] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[23:14:48] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:14:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:14:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:14:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:14:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:14:48] [Server thread/INFO]: Preparing level "world"
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.1
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8687003
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:14:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:14:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:14:48] [Server thread/INFO]: Preparing spawn area: 0%
+[23:14:49] [Server thread/INFO]: Preparing spawn area: 2%
+[23:14:49] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[23:14:49] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 270.2ms
+[23:14:49] [Server thread/INFO]: Preparing spawn area: 4%
+[23:14:50] [Server thread/INFO]: Time elapsed: 1374 ms
+[23:14:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:14:50] [Server thread/INFO]: Preparing spawn area: 0%
+[23:14:50] [Server thread/INFO]: Time elapsed: 349 ms
+[23:14:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:14:50] [Server thread/INFO]: Preparing spawn area: 0%
+[23:14:50] [Server thread/INFO]: Time elapsed: 109 ms
+[23:14:50] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0
+[23:14:50] [Server thread/WARN]: [Essentials] Beginning Adventure locale file conversion.
+[23:14:50] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[23:14:50] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
+[23:14:51] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[23:14:51] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
+[23:14:51] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[23:14:51] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[23:14:51] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[23:14:51] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[23:14:51] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[23:14:51] [Server thread/INFO]: [Essentials] Done converting random teleport config.
+[23:14:51] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
+[23:14:51] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[23:14:51] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
+[23:14:51] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[23:14:51] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
+[23:14:51] [Server thread/INFO]: [Essentials] Using locale en
+[23:14:51] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[23:14:52] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[23:14:52] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[23:14:52] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[23:14:52] [Server thread/INFO]: [JustTPA] Enabling JustTPA v20250220c
+[23:14:52] [Server thread/INFO]: [JustTPA] JustTPA initialized
+[23:14:52] [Server thread/INFO]: [JustTPA] bStats enabled
+[23:14:52] [Server thread/INFO]: [JustTPA] Checking for updates...
+[23:14:52] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0
+[23:14:52] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[23:14:52] [Server thread/INFO]: [AntiPopup] Enabling AntiPopup v10.1
+[23:14:52] [Server thread/INFO]: [AntiPopup] Config enabled.
+[23:14:52] [Server thread/INFO]: [AntiPopup] Initiated PacketEvents.
+[23:14:52] [Server thread/INFO]: [AntiPopup] Hooked on 1.21.3
+[23:14:52] [Server thread/INFO]: [AntiPopup] Commands registered.
+[23:14:52] [Server thread/INFO]: [AntiPopup] Logger filter enabled.
+[23:14:52] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.3
+[23:14:52] [Server thread/INFO]: [sleep-most] Hooked to Essentials
+[23:14:52] [Server thread/INFO]: [CombatWeaponryPlus] Enabling CombatWeaponryPlus vBETA 1.0.8
+[23:14:54] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0
+[23:14:54] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[23:14:54] [Server thread/INFO]: [spark] Starting background profiler...
+[23:14:55] [Server thread/INFO]: Done preparing level "world" (7.027s)
+[23:14:55] [Server thread/INFO]: Running delayed init tasks
+[23:14:55] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[23:14:55] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[23:14:55] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] Checking for Updates ... 
+[23:14:55] [Server thread/INFO]: Done (28.258s)! For help, type "help"
+[23:14:55] [Server thread/WARN]: [AntiPopup] ----------------------[ READ ME ]----------------------
+[23:14:55] [Server thread/WARN]: [AntiPopup] This is your first startup with AntiPopup.
+[23:14:55] [Server thread/WARN]: [AntiPopup] Run command 'antipopup setup' to disable
+[23:14:55] [Server thread/WARN]: [AntiPopup] enforce-secure-profile for better experience.
+[23:14:55] [Server thread/WARN]: [AntiPopup] This will not force players to sign their messages.
+[23:14:55] [Server thread/WARN]: [AntiPopup] Thanks for using AntiPopup!
+[23:14:55] [Server thread/WARN]: [AntiPopup] -------------------------------------------------------
+[23:14:55] [Server thread/WARN]: [AntiPopup] ------------------------[ READ ME ]------------------------
+[23:14:55] [Server thread/WARN]: [AntiPopup] This is your first startup with AntiPopup.
+[23:14:55] [Server thread/WARN]: [AntiPopup] I would like to kindly ask you to enable bstats
+[23:14:55] [Server thread/WARN]: [AntiPopup] configuration value to help me improve AntiPopup.
+[23:14:55] [Server thread/WARN]: [AntiPopup] Because I respect your freedom it's disabled by default.
+[23:14:55] [Server thread/WARN]: [AntiPopup] Thanks for using AntiPopup! (you will not see this again)
+[23:14:55] [Server thread/WARN]: [AntiPopup] -----------------------------------------------------------
+[23:14:55] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] No new version available
+[23:14:55] [Craft Scheduler Thread - 1 - JustTPA/INFO]: [JustTPA] You are using the latest version for your server.
+[23:15:00] [Server thread/INFO]: Server Plugins (10):
+[23:15:00] [Server thread/INFO]: Bukkit Plugins:
+[23:15:00] [Server thread/INFO]:  - AntiPopup, CombatWeaponryPlus, Essentials, EssentialsChat, EssentialsSpawn, JustTPA, LuckPerms, SkinsRestorer, sleep-most, Vault
+[23:15:32] [User Authenticator #0/INFO]: UUID of player ItsSoulTime is 9f68d785-ad11-3bab-bb36-393a7edbfffb
+[23:15:34] [Server thread/INFO]: ItsSoulTime joined the game
+[23:15:34] [Server thread/INFO]: ItsSoulTime[/127.207.40.132:53771] logged in with entity id 112 at ([world]327.66507397282703, 69.0, -110.32179561965677)
+[23:15:34] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
+[23:16:39] [Server thread/INFO]: ItsSoulTime has made the advancement [Diamonds!]
+[23:17:33] [Server thread/INFO]: ItsSoulTime issued server command: /irename &lds
+[23:17:53] [Server thread/INFO]: ItsSoulTime issued server command: /ping
+[23:17:55] [Server thread/INFO]: ItsSoulTime issued server command: /lag
+[23:18:54] [Server thread/INFO]: ItsSoulTime issued server command: /plugins
+[23:18:58] [Server thread/INFO]: ItsSoulTime issued server command: /tpa
+[23:19:39] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set skinsrestorer.command.random
+[23:19:39] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[23:19:39] [luckperms-command-executor/INFO]: [LP] LOG > permission set skinsrestorer.command.random true
+[23:19:43] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set skinsrestorer.command.edit
+[23:19:43] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[23:19:43] [luckperms-command-executor/INFO]: [LP] LOG > permission set skinsrestorer.command.edit true
+[23:19:46] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set skinsrestorer.command.update
+[23:19:46] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[23:19:46] [luckperms-command-executor/INFO]: [LP] LOG > permission set skinsrestorer.command.update true
+[23:19:50] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set skinsrestorer.command.set
+[23:19:50] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[23:19:50] [luckperms-command-executor/INFO]: [LP] LOG > permission set skinsrestorer.command.set true
+[23:19:54] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set skinsrestorer.command
+[23:19:54] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[23:19:54] [luckperms-command-executor/INFO]: [LP] LOG > permission set skinsrestorer.command true
+[23:20:10] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set justplayer.tpa.accept
+[23:20:10] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[23:20:10] [luckperms-command-executor/INFO]: [LP] LOG > permission set justplayer.tpa.accept true
+[23:20:13] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set justplayer.tpa.cancel
+[23:20:13] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[23:20:13] [luckperms-command-executor/INFO]: [LP] LOG > permission set justplayer.tpa.cancel true
+[23:20:15] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set justplayer.tpa.deny}
+[23:20:15] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[23:20:15] [luckperms-command-executor/INFO]: [LP] LOG > permission set justplayer.tpa.deny} true
+[23:20:22] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set justplayer.tpa.here
+[23:20:22] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[23:20:22] [luckperms-command-executor/INFO]: [LP] LOG > permission set justplayer.tpa.here true
+[23:20:25] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set justplayer.tpa.deny
+[23:20:25] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[23:20:25] [luckperms-command-executor/INFO]: [LP] LOG > permission set justplayer.tpa.deny true
+[23:20:30] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set justplayer.tpa.return
+[23:20:30] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[23:20:30] [luckperms-command-executor/INFO]: [LP] LOG > permission set justplayer.tpa.return true
+[23:20:36] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set justplayer.tpa.wait
+[23:20:36] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[23:20:36] [luckperms-command-executor/INFO]: [LP] LOG > permission set justplayer.tpa.wait true
+[23:20:39] [Server thread/INFO]: ItsSoulTime issued server command: /tpa
+[23:20:41] [Server thread/INFO]: ItsSoulTime issued server command: /tpa ItsSoulTime
+[23:20:45] [Server thread/INFO]: ItsSoulTime issued server command: /tpa help
+[23:20:51] [Server thread/INFO]: ItsSoulTime issued server command: /tpahelp
+[23:21:18] [Server thread/INFO]: ItsSoulTime issued server command: /plugins
+[23:21:33] [Server thread/INFO]: ItsSoulTime has made the advancement [Sweet Dreams]
+[23:23:29] [Server thread/INFO]: ItsSoulTime issued server command: /sm reload
+[23:23:40] [Server thread/INFO]: ItsSoulTime issued server command: /time set night
+[23:23:51] [Server thread/INFO]: ItsSoulTime lost connection: Disconnected
+[23:23:51] [Server thread/INFO]: ItsSoulTime left the game
+[23:24:04] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[23:24:09] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[23:24:09] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[23:24:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:24:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:24:09] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[23:24:09] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[23:24:09] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0
+[23:24:09] [Server thread/INFO]: [CombatWeaponryPlus] Disabling CombatWeaponryPlus vBETA 1.0.8
+[23:24:09] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.3
+[23:24:09] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v10.1
+[23:24:09] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[23:24:09] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[23:24:09] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.0
+[23:24:09] [Server thread/INFO]: [JustTPA] Disabling JustTPA v20250220c
+[23:24:09] [Server thread/INFO]: [JustTPA] JustTPA disabled
+[23:24:09] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0
+[23:24:09] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[23:24:09] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[23:24:09] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[23:24:09] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
+[23:24:09] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[23:24:09] [Server thread/INFO]: [LuckPerms] Closing storage...
+[23:24:09] [Server thread/INFO]: [LuckPerms] Goodbye!
+[23:24:09] [Server thread/INFO]: Loaded 1337 recipes
+[23:24:09] [Server thread/INFO]: Loaded 1448 advancements
+[23:24:10] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:24:10] [Server thread/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[23:24:10] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (10):
+ - AntiPopup (10.1), CombatWeaponryPlus (BETA 1.0.8), Essentials (2.21.0), EssentialsChat (2.21.0), EssentialsSpawn (2.21.0), JustTPA (20250220c), LuckPerms (5.4.158), SkinsRestorer (15.6.1), Vault (1.7.3-b131), sleep-most (5.5.3)
+[23:24:10] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.158
+[23:24:10] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[23:24:10] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0
+[23:24:10] [Server thread/INFO]: [JustTPA] Loading server plugin JustTPA v20250220c
+[23:24:10] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0
+[23:24:10] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.1
+[23:24:10] [Server thread/INFO]: [AntiPopup] Loading server plugin AntiPopup v10.1
+[23:24:12] [Server thread/INFO]: [AntiPopup] Loaded PacketEvents.
+[23:24:12] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.3
+[23:24:12] [Server thread/INFO]: [CombatWeaponryPlus] Loading server plugin CombatWeaponryPlus vBETA 1.0.8
+[23:24:12] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0
+[23:24:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:24:12] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.158
+[23:24:12] [Server thread/INFO]:         __    
+[23:24:12] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.158
+[23:24:12] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[23:24:12] [Server thread/INFO]: 
+[23:24:12] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[23:24:12] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[23:24:12] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[23:24:13] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[23:24:13] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 757ms)
+[23:24:13] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[23:24:13] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[23:24:13] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[23:24:13] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[23:24:13] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[23:24:13] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[23:24:13] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[23:24:13] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[23:24:13] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[23:24:14] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:24:14] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.6.1
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 8687003
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:24:14] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:24:14] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[23:24:14] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[23:24:14] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[23:24:14] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[23:24:14] [Server thread/INFO]: [Essentials] Found 1 files to convert...
+[23:24:14] [Server thread/INFO]: [Essentials] Converted 0/1
+[23:24:14] [Server thread/INFO]: [Essentials] Ban format update complete.
+[23:24:14] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[23:24:14] [Server thread/INFO]: [Essentials] Done converting ignore list.
+[23:24:14] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[23:24:14] [Server thread/INFO]: [Essentials] Done converting legacy userdata keys to Configurate.
+[23:24:14] [Server thread/INFO]: [Essentials] Done converting mail list.
+[23:24:14] [Server thread/INFO]: [Essentials] #===========================================================================#
+[23:24:14] [Server thread/INFO]: [Essentials]  EssentialsX will now purge any NPC accounts which were incorrectly created.
+[23:24:14] [Server thread/INFO]: [Essentials]  Only NPC accounts with the default starting balance will be deleted. If
+[23:24:14] [Server thread/INFO]: [Essentials]  they turn out to be valid NPC accounts, they will be re-created as needed.
+[23:24:14] [Server thread/INFO]: [Essentials]  Any files deleted here will be backed up to the 
+[23:24:14] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
+[23:24:14] [Server thread/INFO]: [Essentials]  have been purged incorrectly, you should restore it from the backup and
+[23:24:14] [Server thread/INFO]: [Essentials]  report it to us on GitHub:
+[23:24:14] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[23:24:14] [Server thread/INFO]: [Essentials] 
+[23:24:14] [Server thread/INFO]: [Essentials]  NOTE: This is a one-time process and will take several minutes if you have
+[23:24:14] [Server thread/INFO]: [Essentials]  a lot of userdata files! If you interrupt this process, EssentialsX will
+[23:24:14] [Server thread/INFO]: [Essentials]  skip the process until you rename or remove the backup folder.
+[23:24:14] [Server thread/INFO]: [Essentials] #===========================================================================#
+[23:24:14] [Server thread/INFO]: [Essentials] Found ~1 files under "plugins/Essentials/userdata"...
+[23:24:14] [Server thread/INFO]: [Essentials] #===========================================================================#
+[23:24:14] [Server thread/INFO]: [Essentials]  EssentialsX has finished purging NPC accounts.
+[23:24:14] [Server thread/INFO]: [Essentials] 
+[23:24:14] [Server thread/INFO]: [Essentials]  Deleted accounts: 0
+[23:24:14] [Server thread/INFO]: [Essentials]  Total accounts processed: 1
+[23:24:14] [Server thread/INFO]: [Essentials] 
+[23:24:14] [Server thread/INFO]: [Essentials]  Purged accounts have been backed up to
+[23:24:14] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup", and can be restored from there
+[23:24:14] [Server thread/INFO]: [Essentials]  if needed. Please report any files which have been incorrectly deleted
+[23:24:14] [Server thread/INFO]: [Essentials]  to us on GitHub:
+[23:24:14] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[23:24:14] [Server thread/INFO]: [Essentials] #===========================================================================#
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[23:24:14] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[23:24:14] [Server thread/INFO]: [Essentials] Using locale en
+[23:24:14] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[23:24:15] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[23:24:15] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[23:24:15] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[23:24:15] [Server thread/INFO]: [JustTPA] Enabling JustTPA v20250220c
+[23:24:15] [Server thread/INFO]: [JustTPA] JustTPA initialized
+[23:24:15] [Server thread/INFO]: [JustTPA] bStats enabled
+[23:24:15] [Server thread/INFO]: [JustTPA] Checking for updates...
+[23:24:15] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0
+[23:24:15] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[23:24:15] [Server thread/INFO]: [AntiPopup] Enabling AntiPopup v10.1
+[23:24:15] [Server thread/INFO]: [AntiPopup] Config enabled.
+[23:24:15] [Server thread/INFO]: [AntiPopup] Initiated PacketEvents.
+[23:24:15] [Server thread/INFO]: [AntiPopup] Hooked on 1.21.3
+[23:24:15] [Server thread/INFO]: [AntiPopup] Commands registered.
+[23:24:15] [Server thread/INFO]: [AntiPopup] Logger filter enabled.
+[23:24:15] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.3
+[23:24:15] [Server thread/INFO]: [sleep-most] Hooked to Essentials
+[23:24:15] [Server thread/INFO]: [CombatWeaponryPlus] Enabling CombatWeaponryPlus vBETA 1.0.8
+[23:24:16] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0
+[23:24:16] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[23:24:16] [Server thread/INFO]: CONSOLE: Reload complete.
+[23:24:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7454ms or 149 ticks behind
+[23:24:16] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[23:24:16] [Craft Scheduler Thread - 62 - Vault/INFO]: [Vault] Checking for Updates ... 
+[23:24:16] [Craft Scheduler Thread - 59 - Essentials/INFO]: [Essentials] Fetching version information...
+[23:24:16] [Craft Scheduler Thread - 57 - JustTPA/INFO]: [JustTPA] You are using the latest version for your server.
+[23:24:16] [Craft Scheduler Thread - 62 - Vault/INFO]: [Vault] No new version available
+[23:24:20] [User Authenticator #1/INFO]: UUID of player ItsSoulTime is 9f68d785-ad11-3bab-bb36-393a7edbfffb
+[23:24:22] [Server thread/INFO]: ItsSoulTime joined the game
+[23:24:22] [Server thread/INFO]: ItsSoulTime[/127.207.40.132:49745] logged in with entity id 1235 at ([world]332.6475165304881, 70.0, -122.54747960410909)
